@@ -49,6 +49,16 @@ body{
     
 }
 
+/* .login{
+    float: left;
+    margin-left: 6%;
+}
+
+.register{
+    float: right;
+    margin-right: 6%;
+} */
+
 .card-one{
     float: left;
     box-sizing: border-box;
